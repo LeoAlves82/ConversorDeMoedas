@@ -17,7 +17,6 @@ src/
 ├── JsonParaGeson.java
 ├── Principal.java
 
- 
 ```
 
 ---
